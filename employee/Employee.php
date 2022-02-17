@@ -1,4 +1,5 @@
 <?php
+//Using namespace
 namespace employee;
 
 
